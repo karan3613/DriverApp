@@ -1,4 +1,4 @@
-# 🚍 BusSaathi Driver App – Real-Time Bus Location Uploader
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ce2d8d4f-4791-4b93-9f2c-b5cba620a9d6" /># 🚍 BusSaathi Driver App – Real-Time Bus Location Uploader
 
 The **BusSaathi Driver App** is a companion application to the main **[BusSaathi Passenger App](https://github.com/karan3613/BusSaathiApp)**.  
 It allows government bus drivers and conductors to **share their live location** with the system every few seconds — enabling **real-time tracking** for passengers.  
@@ -20,7 +20,7 @@ Built using **Kotlin**, **Jetpack Compose**, and the **MVVM architecture**, this
 The Driver App is designed for simplicity and reliability.  
 Each driver can sign in and view their **profile**, which includes essential details such as:
 
-- 🧑‍✈️ **Driver Name & Contact Info**  
+- 👨‍💼 **Driver Name & Contact Info**  
 - 🚌 **Bus Number & Route Details**  
 - 👨‍💼 **Conductor Details**
 
